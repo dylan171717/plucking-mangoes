@@ -5,7 +5,7 @@ class Tree{
 
         }
         this.tree = Bodies.rectangle(x,y,options);
-        this.image = loadImage("Plucking_mangoes/tree.png")
+        this.image = loadImage("images/tree.png")
     }
 display(){
     imageMode(CENTER);
